@@ -20,7 +20,7 @@
     </dependency>
     <!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-war-plugin -->
    <!-- <dependency>
-    PIPELINE CICD
+      ARESTARTWS    
     </dependency> -->
 
   </dependencies>
